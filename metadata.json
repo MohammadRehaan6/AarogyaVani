@@ -1,0 +1,6 @@
+{
+  "name": "AarogyaVani - Multilingual Medical Discharge & Report Assistant",
+  "description": "AI-powered medical report scanner and multilingual plain-language discharge assistant that benchmarks reports against healthy baselines, stages diseases, crafts nutrition and yoga recovery plans, and provides precise medicine dosage, timing, shelf-life, and administration guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
